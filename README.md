@@ -40,6 +40,8 @@ Se você quiser ajudar a melhorar essa aplicação, pode:
 
 **#feriados #brasil #programação #javascript #html #css #open-source #alura #imersaodevaluragemini #imersaodev #gemini**
 
+**Link para acessar a aplicação on-line na Vercel: https://projeto-feriados.vercel.app/**
+
 **Observações:**
 
 * **Personalize:** Adapte o README com a sua linguagem e o estilo do seu projeto.
