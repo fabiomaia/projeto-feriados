@@ -38,7 +38,7 @@ Se você quiser ajudar a melhorar essa aplicação, pode:
 
 **Vamos juntos tornar essa aplicação ainda mais incrível!** 
 
-**#feriados #brasil #programação #javascript #html #css #open-source**
+**#feriados #brasil #programação #javascript #html #css #open-source #alura #imersaodevaluragemini #imersaodev #gemini**
 
 **Observações:**
 
